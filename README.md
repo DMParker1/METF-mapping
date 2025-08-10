@@ -74,7 +74,7 @@ Following reconnaissance, the estimated need grew from ~800 to ~1,200 villages. 
 For a more complete list of METF-related publications — including titles, partial author lists, and space for summaries — see [publications.md](publications.md).
 
 Key papers:
-- Parker DM, Landier J, Thu AM, _et al._ *Scale up of a Plasmodium falciparum elimination program and surveillance system in Kayin State, Myanmar* 2017. *Wellcome Open Research* 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2  
+- Parker DM, Landier J, Thu AM, _et al._ [**Scale up of a *Plasmodium falciparum* elimination program and surveillance system in Kayin State, Myanmar**](https://doi.org/10.12688/wellcomeopenres.12741.2) 2017. *Wellcome Open Research* 2:98.   
 - Landier J, Parker DM, Thu AM, _et al._ 2018. *The Lancet* 391:1916–26. https://doi.org/10.1016/S0140-6736(18)30792-X
 
 

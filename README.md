@@ -11,7 +11,7 @@ This repository showcases the mapping effort of the Malaria Elimination Task For
 </a>
 
 <div align="left">
-  <em>**Figure 1**: Map of METF target areas and villages in Kayin State — from Parker DM, Landier J, Thu AM, et al. *Scale up of a Plasmodium falciparum elimination program and surveillance system in Kayin State, Myanmar* [version 2; peer review: 2 approved]. *Wellcome Open Research* 2017, 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2 (CC BY).</em>
+  <em>**Figure 1**: Map of METF target areas and villages in Kayin State — from Parker DM, Landier J, Thu AM, et al. <strong>Scale up of a <em>Plasmodium falciparum</em> elimination program and surveillance system in Kayin State, Myanmar</strong> [version 2; peer review: 2 approved]. <em>Wellcome Open Research</em> 2017, 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2 (CC BY).</em>
 </div>
 
 ---
@@ -34,15 +34,13 @@ Following reconnaissance, the estimated need grew from ~800 to ~1,200 villages. 
 
 ---
 
-## Talks about GIS & Community Engagement 
+## Talks & Community Engagement
 
 - **GIS for Mass Drug Administration** — short explainer video:  
   [![GIS for MDA](https://img.youtube.com/vi/WbmsRzDmFS4/0.jpg)](https://www.youtube.com/watch?v=WbmsRzDmFS4)
 
 - **Community Engagement Session** — discussion with Saw Poe Wah & Daniel Parker:  
   [![Community Engagement](https://img.youtube.com/vi/AvWPTHMTwrY/0.jpg)](https://www.youtube.com/watch?v=AvWPTHMTwrY)
-
--videos are from a course on MDA (mass drug administration) for malaria at the University of Copenhagen
 
 ---
 
@@ -57,22 +55,12 @@ Following reconnaissance, the estimated need grew from ~800 to ~1,200 villages. 
 - **Combination therapies for malaria:**  
   [![Combination therapies](https://img.youtube.com/vi/42pHJxBpbM4/0.jpg)](https://www.youtube.com/watch?v=42pHJxBpbM4)
 
--videos are from a course on MDA (mass drug administration) for malaria at the University of Copenhagen
-
 ---
 
 ## Publications
 
-- Parker DM, Landier J, Thu AM, et al. 2017. *Wellcome Open Research* 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2  
-- Landier J, Kajeechiwa L, Thwin MM, et al. 2018. *The Lancet* 391:1916–26. https://doi.org/10.1016/S0140-6736(18)30792-X  
-- https://doi.org/10.1186/s12936-024-04955-6  
-- https://doi.org/10.1186/s12884-021-04276-5  
-- https://doi.org/10.1186/s12936-019-2677-2  
-- https://doi.org/10.1186/s12889-021-11749-x  
-- https://doi.org/10.1016/j.actatropica.2023.106661  
-- https://doi.org/10.1186/s13071-023-05915-w  
-- https://doi.org/10.1186/s12936-022-04175-w  
-- https://doi.org/10.1186/s12889-021-10842-5  
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC12270226/  
-- https://www.proquest.com/docview/3098795458  
-- https://doi.org/10.12688/wellcomeopenres.155  
+For a more complete list of METF-related publications — including titles, partial author lists, and space for summaries — see [publications.md](publications.md).
+
+Key papers:
+- Parker DM, Landier J, Thu AM, _et al._ 2017. *Wellcome Open Research* 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2  
+- Landier J, Parker DM, Thu AM, _et al._ 2018. *The Lancet* 391:1916–26. https://doi.org/10.1016/S0140-6736(18)30792-X

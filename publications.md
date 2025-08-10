@@ -67,3 +67,11 @@ Below is a curated list of peer-reviewed publications resulting from the METF ma
 - **Optimising Surveillance and the Delivery of Targeted Interventions to Achieve Malaria Elimination in Eastern Myanmar.**  
   Rae JD. Doctoral thesis. 2024.  
   [https://www.proquest.com/docview/3098795458](https://www.proquest.com/docview/3098795458)
+
+- ***Plasmodium falciparum* Kelch 13 mutations and treatment response in patients in Hpa-Pun District, Northern Kayin State, Myanmar.**  
+  Bonnington CA, Phyo AP, Ashley EA, et al. *Malaria Journal*. 2017;16:480.  
+  [https://doi.org/10.1186/s12936-017-2128-x](https://doi.org/10.1186/s12936-017-2128-x)
+
+- **Combating multidrug-resistant *Plasmodium falciparum* malaria.**  
+  Thu AM, Phyo AP, Landier J, Parker DM, Nosten FH. *The FEBS Journal*. First published: 05 June 2017.  
+  [https://doi.org/10.1111/febs.14127](https://doi.org/10.1111/febs.14127)

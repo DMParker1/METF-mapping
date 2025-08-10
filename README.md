@@ -7,11 +7,10 @@ This repository is a visual showcase of the METF mapping effort in Karen/Kayin S
 ## Gallery
 
 <p align="center">
-  <img src="figures/figure1_overview_map.jpg" alt="Figure 1: METF target area and villages overview" width="80%">
+  <img src="figure1_overview_map.gif" alt="Figure 1: METF target area and villages overview" width="80%">
   <br/>
-  <em>**Figure 1**: Map of METF target areas and villages in Kayin State — from Parker DM et al., *Wellcome Open Research* 2017 (CC BY – see below for attribution).</em>
+  <em>**Figure 1**: Map of METF target areas and villages in Kayin State — from Parker DM, Landier J, Thu AM, et al. <strong>Scale up of a <em>Plasmodium falciparum</em> elimination program and surveillance system in Kayin State, Myanmar</strong> [version 2; peer review: 2 approved]. <em>Wellcome Open Research</em> 2017, 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2 (licensed under CC BY).</em>
 </p>
-
 ---
 
 ## Short methods summary

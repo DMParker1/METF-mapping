@@ -7,6 +7,9 @@ The project can be seen as a culmination of several previous lines of work, incl
 - use of combination therapies for falciparum malaria
 - use of targeted mass drug administration for falciparum malaria
 
+Some of this is detailed through interviews w/ François Nosten. For example:
+- [How malaria defeats our drugs](https://wellcome.org/news/how-malaria-defeats-our-drugs)
+
 ---
 
 ## Gallery

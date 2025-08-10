@@ -1,11 +1,5 @@
 # METF-mapping — Karen State, Myanmar 
 
-This repository is a visual showcase of the METF mapping effort in Karen/Kayin State, Myanmar—highlighting how the spatial workflow supported surveillance operations, elimination programs, and research expansion. No sensitive geodata are included.
-
----
-
-# METF-mapping — Karen State, Myanmar 
-
 This repository showcases the mapping effort of the Malaria Elimination Task Force (METF) in Karen/Kayin State, Myanmar — a large-scale geographic survey and community partnership that supported malaria elimination operations, expanded surveillance networks, and generated multiple research lines. No sensitive geodata are included.
 
 ---

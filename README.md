@@ -2,12 +2,14 @@
 
 This repository showcases the mapping effort of the Malaria Elimination Task Force (METF) in Karen/Kayin State, Myanmar — a large-scale geographic survey and community partnership that supported malaria elimination efforts, expanded surveillance networks, and generated multiple research lines. **No sensitive geodata are included**.
 
-The project can be seen as a culmination of several previous lines of work, including work on:
-- the impacts of early diagnosis and treatment for falciparum malaria on malaria incidence
-- use of combination therapies for falciparum malaria
-- use of targeted mass drug administration for falciparum malaria
+The mapping program is closely connected to several other major lines of work, including:
+- The impacts of early diagnosis and treatment for *Plasmodium falciparum* malaria on malaria incidence
+- The use of combination therapies for *P. falciparum*
+- The use of targeted mass drug administration (tMDA) for *P. falciparum* elimination
 
-Some of this is detailed through interviews w/ François Nosten. For example:
+Future related repositories will document these other strands — particularly early diagnosis & treatment and tMDA — which both fed into and were influenced by METF’s operational model. Linking these will provide a fuller picture of the program’s evolution and shared lessons across initiatives.
+
+Some of the broader history is detailed through interviews with François Nosten, for example:
 - [How malaria defeats our drugs](https://wellcome.org/news/how-malaria-defeats-our-drugs)
 - [Scientists race to eliminate malaria as ‘wonder drug’ loses its powers](https://www.cnn.com/2014/03/25/health/scientists-eliminate-malaria)
 - [The Dour Frenchman on Malaria's Frontier](https://www.science.org/doi/10.1126/science.329.5996.1142)
@@ -74,3 +76,15 @@ For a more complete list of METF-related publications — including titles, part
 Key papers:
 - Parker DM, Landier J, Thu AM, _et al._ 2017. *Wellcome Open Research* 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2  
 - Landier J, Parker DM, Thu AM, _et al._ 2018. *The Lancet* 391:1916–26. https://doi.org/10.1016/S0140-6736(18)30792-X
+
+
+## Milestones
+
+Major content snapshots for this repository are tracked as [GitHub Releases](../../releases).
+
+- **v0.1-baseline** — Initial tagged version: README with context, methods, impetus, publications.md, and first figures.
+- **v0.2-crosslinks** — Added navigation links between README, publications.md, and key assets.
+- **v1.0-related-repos** — Linked to targeted MDA and early diagnosis/treatment repositories.
+- **v2.0-narrative-complete** — All narrative posts, cross-links, and annotations in place.
+
+For details on the tagging system, see [TAGGING.md](TAGGING.md).

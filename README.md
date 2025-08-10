@@ -2,12 +2,12 @@
 
 This repository showcases the mapping effort of the Malaria Elimination Task Force (METF) in Karen/Kayin State, Myanmar — a large-scale geographic survey and community partnership that supported malaria elimination efforts, expanded surveillance networks, and generated multiple research lines. **No sensitive geodata are included**.
 
-The mapping program is closely connected to several other major lines of work, including:
+The mapping program is part of a broader set of research strands, including:
 - The impacts of early diagnosis and treatment for *Plasmodium falciparum* malaria on malaria incidence
 - The use of combination therapies for *P. falciparum*
 - The use of targeted mass drug administration (tMDA) for *P. falciparum* elimination
 
-Future related repositories will document these other strands — particularly early diagnosis & treatment and tMDA — which both fed into and were influenced by METF’s operational model. Linking these will provide a fuller picture of the program’s evolution and shared lessons across initiatives.
+Future related repositories will document these other strands — particularly early diagnosis & treatment and tMDA — which both fed into and were influenced by METF’s operational model. Linking these will give a fuller picture of the program’s evolution and the shared lessons across initiatives.
 
 Some of the broader history is detailed through interviews with François Nosten, for example:
 - [How malaria defeats our drugs](https://wellcome.org/news/how-malaria-defeats-our-drugs)

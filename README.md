@@ -6,8 +6,6 @@ This repository showcases the mapping effort of the Malaria Elimination Task For
 
 ## Gallery
 
-## Gallery
-
 <a href="figure1_overview_map.gif">
   <img src="figure1_overview_map.gif" alt="Figure 1: METF target area and villages overview" width="40%">
 </a>

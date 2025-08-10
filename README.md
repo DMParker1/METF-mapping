@@ -1,11 +1,12 @@
 # METF-mapping — Karen State, Myanmar 
 
-This repository showcases the mapping effort of the Malaria Elimination Task Force (METF) in Karen/Kayin State, Myanmar — a large-scale geographic survey and community partnership that supported malaria elimination efforts, expanded surveillance networks, and generated multiple research lines. **No sensitive geodata are included**.
+I focus here on the mapping component because that was my primary contribution. While there were many other components to the METF program, which I will link to separately, my role was as lead for the geospatial elements — so that is the emphasis in this repository.
 
-The mapping program is part of a broader set of research strands, including:
+The mapping program is also closely connected to other major research strands, including:
 - The impacts of early diagnosis and treatment for *Plasmodium falciparum* malaria on malaria incidence
 - The use of combination therapies for *P. falciparum*
 - The use of targeted mass drug administration (tMDA) for *P. falciparum* elimination
+
 
 Future related repositories will document these other strands — particularly early diagnosis & treatment and tMDA — which both fed into and were influenced by METF’s operational model. Linking these will give a fuller picture of the program’s evolution and the shared lessons across initiatives.
 
@@ -75,8 +76,7 @@ For a more complete list of METF-related publications — including titles, part
 
 Key papers:
 - Parker DM, Landier J, Thu AM, _et al._ [**Scale up of a *Plasmodium falciparum* elimination program and surveillance system in Kayin State, Myanmar**](https://doi.org/10.12688/wellcomeopenres.12741.2) 2017. *Wellcome Open Research* 2:98.   
-- Landier J, Parker DM, Thu AM, _et al._ [**Effect of generalised access to early diagnosis and treatment and targeted mass drug administration on *Plasmodium falciparum* malaria in Eastern Myanmar: an observational study of a regional elimination programme**](https://doi.org/10.1016/S0140-6736(18)30792-X)
-2018. *The Lancet* 391:1916–26. 
+- Landier J, Parker DM, Thu AM, _et al._ [**Effect of generalised access to early diagnosis and treatment and targeted mass drug administration on *Plasmodium falciparum* malaria in Eastern Myanmar: an observational study of a regional elimination programme**](https://doi.org/10.1016/S0140-6736(18)30792-X) 2018. *The Lancet* 391:1916–26. 
 
 
 ## Milestones

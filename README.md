@@ -89,3 +89,13 @@ Major content snapshots for this repository are tracked as [GitHub Releases](../
 - **v2.0-narrative-complete** — All narrative posts, cross-links, and annotations in place.
 
 For details on the tagging system, see [TAGGING.md](TAGGING.md).
+
+---
+## Related Repositories
+
+- [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping and community engagement groundwork for METF.
+- [tMDA-program](https://github.com/DMParker1/tmda-program) — Targeted mass drug administration trials and modeling in Southeast Asia.
+- [early-dx-tx-borderlands](https://github.com/DMParker1/early-dx-tx-borderlands) — Early access to malaria diagnosis and treatment in borderland settings.
+- [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal and child health research on the Thailand–Myanmar border.
+- [earth-observation-labs](https://github.com/DMParker1/earth-observation-labs) — Remote sensing and Earth observation methods applied to public health.
+---

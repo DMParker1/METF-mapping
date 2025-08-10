@@ -64,6 +64,6 @@ Below is a curated list of peer-reviewed publications resulting from the METF ma
   Tangseefa D, Monthathip K, Tuenpakdee N, König A, Kajeechiwa L, Thwin MM, Nosten S, Tun SW, et al. *Wellcome Open Research*. 2019;3:116.  
   [https://doi.org/10.12688/wellcomeopenres.14698.2](https://doi.org/10.12688/wellcomeopenres.14698.2)
 
-- **Using data collected at 1,261 malaria posts operated by the Malaria Elimination Task Force (METF) program in Karen State, Myanmar (2014–2022).**  
+- **Optimising Surveillance and the Delivery of Targeted Interventions to Achieve Malaria Elimination in Eastern Myanmar.**  
   Rae JD. Doctoral thesis. 2024.  
   [https://www.proquest.com/docview/3098795458](https://www.proquest.com/docview/3098795458)

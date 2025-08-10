@@ -4,6 +4,12 @@ This repository is a visual showcase of the METF mapping effort in Karen/Kayin S
 
 ---
 
+# METF-mapping — Karen State, Myanmar 
+
+This repository showcases the mapping effort of the Malaria Elimination Task Force (METF) in Karen/Kayin State, Myanmar — a large-scale geographic survey and community partnership that supported malaria elimination operations, expanded surveillance networks, and generated multiple research lines. No sensitive geodata are included.
+
+---
+
 ## Gallery
 
 <p align="center">
@@ -11,7 +17,7 @@ This repository is a visual showcase of the METF mapping effort in Karen/Kayin S
     <img src="figure1_overview_map.gif" alt="Figure 1: METF target area and villages overview" width="40%">
   </a>
   <br/>
-  <em>**Figure 1**: Map of METF target areas and villages in Kayin State — from Parker DM, Landier J, Thu AM, et al. <strong>Scale up of a <em>Plasmodium falciparum</em> elimination program and surveillance system in Kayin State, Myanmar</strong> [version 2; peer review: 2 approved]. <em>Wellcome Open Research</em> 2017, 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2 (licensed under CC BY).</em>
+  <em>**Figure 1**: Map of METF target areas and villages in Kayin State — from Parker DM, Landier J, Thu AM, et al. <strong>Scale up of a <em>Plasmodium falciparum</em> elimination program and surveillance system in Kayin State, Myanmar</strong> [version 2; peer review: 2 approved]. <em>Wellcome Open Research</em> 2017, 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2 (CC BY).</em>
 </p>
 
 ---
@@ -46,14 +52,16 @@ Following reconnaissance, the estimated need grew from ~800 to ~1,200 villages. 
 
 ## Publications
 
-See [publications.md](publications.md) for the current list. Additional DOIs welcome!
-
----
-
-## Attribution for Figure 1
-
-Figure provided under a Creative Commons licence (CC BY). Please attribute as follows:
-
-- Parker DM, Naw Eh Shee Paw, Choochai Phumiya, et al. 2017. Figure 1: “Map of target area and villages.” In: *Scale up of a Plasmodium falciparum elimination program and surveillance system in Kayin State, Myanmar.* *Wellcome Open Research* 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2
-
-**Creative Commons BY license** allows reuse and adaptation with attribution. :contentReference[oaicite:4]{index=4}
+- Parker DM, Landier J, Thu AM, et al. 2017. *Wellcome Open Research* 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2  
+- Landier J, Kajeechiwa L, Thwin MM, et al. 2018. *The Lancet* 391:1916–26. https://doi.org/10.1016/S0140-6736(18)30792-X  
+- https://doi.org/10.1186/s12936-024-04955-6  
+- https://doi.org/10.1186/s12884-021-04276-5  
+- https://doi.org/10.1186/s12936-019-2677-2  
+- https://doi.org/10.1186/s12889-021-11749-x  
+- https://doi.org/10.1016/j.actatropica.2023.106661  
+- https://doi.org/10.1186/s13071-023-05915-w  
+- https://doi.org/10.1186/s12936-022-04175-w  
+- https://doi.org/10.1186/s12889-021-10842-5  
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12270226/  
+- https://www.proquest.com/docview/3098795458  
+- https://doi.org/10.12688/wellcomeopenres.155  

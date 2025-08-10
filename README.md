@@ -6,13 +6,15 @@ This repository showcases the mapping effort of the Malaria Elimination Task For
 
 ## Gallery
 
-<p align="center">
-  <a href="figure1_overview_map.gif">
-    <img src="figure1_overview_map.gif" alt="Figure 1: METF target area and villages overview" width="40%">
-  </a>
-  <br/>
-  <em>**Figure 1**: Map of METF target areas and villages in Kayin State — from Parker DM, Landier J, Thu AM, et al. <strong>Scale up of a <em>Plasmodium falciparum</em> elimination program and surveillance system in Kayin State, Myanmar</strong> [version 2; peer review: 2 approved]. <em>Wellcome Open Research</em> 2017, 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2 (CC BY).</em>
-</p>
+## Gallery
+
+<a href="figure1_overview_map.gif">
+  <img src="figure1_overview_map.gif" alt="Figure 1: METF target area and villages overview" width="40%">
+</a>
+
+<div align="left">
+  <em>**Figure 1**: Map of METF target areas and villages in Kayin State — from Parker DM, Landier J, Thu AM, et al. *Scale up of a Plasmodium falciparum elimination program and surveillance system in Kayin State, Myanmar* [version 2; peer review: 2 approved]. *Wellcome Open Research* 2017, 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2 (CC BY).</em>
+</div>
 
 ---
 

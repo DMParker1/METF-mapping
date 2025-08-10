@@ -34,13 +34,30 @@ Following reconnaissance, the estimated need grew from ~800 to ~1,200 villages. 
 
 ---
 
-## Talks & Community Engagement
+## Talks about GIS & Community Engagement 
 
 - **GIS for Mass Drug Administration** — short explainer video:  
   [![GIS for MDA](https://img.youtube.com/vi/WbmsRzDmFS4/0.jpg)](https://www.youtube.com/watch?v=WbmsRzDmFS4)
 
 - **Community Engagement Session** — discussion with Saw Poe Wah & Daniel Parker:  
   [![Community Engagement](https://img.youtube.com/vi/AvWPTHMTwrY/0.jpg)](https://www.youtube.com/watch?v=AvWPTHMTwrY)
+
+-videos are from a course on MDA (mass drug administration) for malaria at the University of Copenhagen
+
+---
+
+## Additional Video Resources
+
+- **Introduction to the Malaria Elimination Task Force (METF):**  
+  [![Introduction to METF](https://img.youtube.com/vi/3n1mGWGnzSA/0.jpg)](https://www.youtube.com/watch?v=3n1mGWGnzSA)
+
+- **Mass drug administration for *falciparum* malaria:**  
+  [![MDA for falciparum malaria](https://img.youtube.com/vi/9r5Arh6DW4I/0.jpg)](https://www.youtube.com/watch?v=9r5Arh6DW4I)
+
+- **Combination therapies for malaria:**  
+  [![Combination therapies](https://img.youtube.com/vi/42pHJxBpbM4/0.jpg)](https://www.youtube.com/watch?v=42pHJxBpbM4)
+
+-videos are from a course on MDA (mass drug administration) for malaria at the University of Copenhagen
 
 ---
 

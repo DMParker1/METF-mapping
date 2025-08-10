@@ -9,6 +9,8 @@ The project can be seen as a culmination of several previous lines of work, incl
 
 Some of this is detailed through interviews w/ François Nosten. For example:
 - [How malaria defeats our drugs](https://wellcome.org/news/how-malaria-defeats-our-drugs)
+- [Scientists race to eliminate malaria as ‘wonder drug’ loses its powers](https://www.cnn.com/2014/03/25/health/scientists-eliminate-malaria)
+- [The Dour Frenchman on Malaria's Frontier](https://www.science.org/doi/10.1126/science.329.5996.1142)
 
 ---
 

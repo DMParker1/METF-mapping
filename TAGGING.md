@@ -1,6 +1,6 @@
 # Tagging Scheme for METF-mapping
 
-This repository documents the METF mapping program — its origins, methods, outputs, and context.  The goal is to provide context into how METF happened, what came before it, what has come after it. 
+This repository documents the METF mapping program — its origins, methods, outputs, and context.  
 Version tags mark meaningful narrative or content milestones, not every minor change.
 
 ---
@@ -19,7 +19,7 @@ v<major>.<minor>-<descriptor>
 - **v0.1-baseline** → First tagged snapshot after initial public setup.  
   Includes: README with context, methods, impetus, publications.md, and initial assets.
 
-- **v0.2-crosslinks** → Added cross-links between README, publications.md, and key figures.
+- **v0.2-crosslinks** → Added navigation links between README, publications.md, and key figures.
 
 - **v1.0-related-repos** → Added links to related repositories (e.g., targeted MDA, early diagnosis & treatment).
 

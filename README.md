@@ -36,7 +36,7 @@ Some of the broader history is detailed through interviews with François Nosten
         <img src="./metf-poster-thumb.jpg" alt="Poster: Malaria Elimination, Myanmar" height="260">
       </a>
       <br>
-      <sub><b>Poster.</b> <i>Malaria Elimination, Myanmar</i></sub>
+      <sub><b>Old Poster (2015).</b> <i>Malaria Elimination, Myanmar</i></sub>
       <br>
       <a href="https://doi.org/10.6084/m9.figshare.1505091">
         <img alt="DOI" src="https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.1505091-blue">

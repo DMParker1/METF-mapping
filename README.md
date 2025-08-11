@@ -19,6 +19,8 @@ Some of the broader history is detailed through interviews with François Nosten
 
 ## Gallery
 
+## Gallery
+
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
@@ -40,10 +42,10 @@ Some of the broader history is detailed through interviews with François Nosten
       <a href="https://doi.org/10.6084/m9.figshare.1505091">
         <img alt="DOI" src="https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.1505091-blue">
       </a>
-      · <a href="https://figshare.com/articles/poster/Malaria_Elimination_Myanmar/1505091">Figshare record</a>
     </td>
   </tr>
 </table>
+
 ---
 ## Methods & Operations
 

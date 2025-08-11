@@ -19,28 +19,32 @@ Some of the broader history is detailed through interviews with François Nosten
 
 ## Gallery
 
-<a href="figure1_overview_map.gif">
-  <img src="figure1_overview_map.gif" alt="Figure 1: METF target area and villages overview" width="40%">
-</a>
-
-<div align="left">
-  <em>**Figure 1**: Map of METF target areas and villages in Kayin State — from Parker DM, Landier J, Thu AM, et al. <strong>Scale up of a <em>Plasmodium falciparum</em> elimination program and surveillance system in Kayin State, Myanmar</strong> [version 2; peer review: 2 approved]. <em>Wellcome Open Research</em> 2017, 2:98. https://doi.org/10.12688/wellcomeopenres.12741.2 (CC BY).</em>
-</div>
-
----
-### Old Poster: *Malaria Elimination, Myanmar*
-<h3>Poster: <em>Malaria Elimination, Myanmar</em></h3>
-<p align="center">
-  <a href="https://figshare.com/articles/poster/Malaria_Elimination_Myanmar/1505091?file=2204588">
-    <img src="./metf-poster-thumb.jpg" alt="Poster: Malaria Elimination, Myanmar" width="480">
-  </a>
-</p>
-<p align="center">
-  <a href="https://doi.org/10.6084/m9.figshare.1505091">
-    <img alt="DOI" src="https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.1505091-blue">
-  </a>
-  · <a href="https://figshare.com/articles/poster/Malaria_Elimination_Myanmar/1505091">Figshare record</a>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <!-- Map -->
+      <a href="https://doi.org/10.12688/wellcomeopenres.12741.2">
+        <img src="./figure1_overview_map.gif" alt="Figure 1: METF target areas and villages" height="260">
+      </a>
+      <br>
+      <sub><b>Figure 1.</b> Map of METF target areas and villages in Kayin State (CC BY).</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <!-- Poster -->
+      <a href="https://figshare.com/articles/poster/Malaria_Elimination_Myanmar/1505091?file=2204588">
+        <!-- If your file is named differently, update the src below -->
+        <img src="./metf-poster-thumb-600.jpg" alt="Poster: Malaria Elimination, Myanmar" height="260">
+      </a>
+      <br>
+      <sub><b>Poster.</b> <i>Malaria Elimination, Myanmar</i></sub>
+      <br>
+      <a href="https://doi.org/10.6084/m9.figshare.1505091">
+        <img alt="DOI" src="https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.1505091-blue">
+      </a>
+      · <a href="https://figshare.com/articles/poster/Malaria_Elimination_Myanmar/1505091">Figshare record</a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## Methods & Operations

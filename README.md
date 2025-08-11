@@ -32,8 +32,7 @@ Some of the broader history is detailed through interviews with François Nosten
     <td align="center" valign="top" width="50%">
       <!-- Poster -->
       <a href="https://figshare.com/articles/poster/Malaria_Elimination_Myanmar/1505091?file=2204588">
-        <!-- If your file is named differently, update the src below -->
-        <img src="./metf-poster-thumb-600.jpg" alt="Poster: Malaria Elimination, Myanmar" height="260">
+        <img src="./metf-poster-thumb.jpg" alt="Poster: Malaria Elimination, Myanmar" height="260">
       </a>
       <br>
       <sub><b>Poster.</b> <i>Malaria Elimination, Myanmar</i></sub>
@@ -46,7 +45,6 @@ Some of the broader history is detailed through interviews with François Nosten
   </tr>
 </table>
 ---
-
 ## Methods & Operations
 
 **Mapping & GIS:**  

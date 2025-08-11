@@ -17,7 +17,6 @@ Some of the broader history is detailed through interviews with François Nosten
 
 ---
 
-## Gallery
 
 ## Gallery
 
@@ -32,7 +31,7 @@ Some of the broader history is detailed through interviews with François Nosten
       <sub><b>Figure 1.</b> Map of METF target areas and villages in Kayin State (CC BY).</sub>
     </td>
     <td align="center" valign="top" width="50%">
-      <!-- Poster -->
+      <!-- Old Poster (2015) -->
       <a href="https://figshare.com/articles/poster/Malaria_Elimination_Myanmar/1505091?file=2204588">
         <img src="./metf-poster-thumb.jpg" alt="Poster: Malaria Elimination, Myanmar" height="260">
       </a>

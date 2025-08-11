@@ -29,9 +29,18 @@ Some of the broader history is detailed through interviews with François Nosten
 
 ---
 ### Old Poster: *Malaria Elimination, Myanmar*
-[![Poster thumbnail](./metf-poster-thumb.jpg)](https://figshare.com/articles/poster/Malaria_Elimination_Myanmar/1505091?file=2204588)
-[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.1505091-blue)](https://doi.org/10.6084/m9.figshare.1505091)
-· [Figshare record](https://figshare.com/articles/poster/Malaria_Elimination_Myanmar/1505091)
+<h3>Poster: <em>Malaria Elimination, Myanmar</em></h3>
+<p align="center">
+  <a href="https://figshare.com/articles/poster/Malaria_Elimination_Myanmar/1505091?file=2204588">
+    <img src="./metf-poster-thumb.jpg" alt="Poster: Malaria Elimination, Myanmar" width="480">
+  </a>
+</p>
+<p align="center">
+  <a href="https://doi.org/10.6084/m9.figshare.1505091">
+    <img alt="DOI" src="https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.1505091-blue">
+  </a>
+  · <a href="https://figshare.com/articles/poster/Malaria_Elimination_Myanmar/1505091">Figshare record</a>
+</p>
 ---
 
 ## Methods & Operations

@@ -96,16 +96,11 @@ Key papers:
 - Landier J, Parker DM, Thu AM, _et al._ [**Effect of generalised access to early diagnosis and treatment and targeted mass drug administration on *Plasmodium falciparum* malaria in Eastern Myanmar: an observational study of a regional elimination programme**](https://doi.org/10.1016/S0140-6736(18)30792-X) 2018. *The Lancet* 391:1916–26. 
 
 
-## Milestones
+## METF reports (SMRU)
 
-Major content snapshots for this repository are tracked as [GitHub Releases](../../releases).
+<!-- METF_REPORTS:START -->
+<!-- METF_REPORTS:END -->
 
-- **v0.1-baseline** — Initial tagged version: README with context, methods, impetus, publications.md, and first figures.
-- **v0.2-crosslinks** — Added navigation links between README, publications.md, and key assets.
-- **v1.0-related-repos** — Linked to targeted MDA and early diagnosis/treatment repositories.
-- **v2.0-narrative-complete** — All narrative posts, cross-links, and annotations in place.
-
-For details on the tagging system, see [TAGGING.md](TAGGING.md).
 
 ---
 ## Related Repositories

@@ -99,11 +99,12 @@ Key papers:
 
 <!-- METF_REPORTS:START -->
 ## METF reports (SMRU)
+_Auto-updated: 2025-08-12 00:38 UTC_
 
-- [METF News bulletin (PDF) (2024-09)](https://www.shoklo-unit.com/files/resources/reports/metf_news.pdf)
 - [METF Activity Report Update May 2014 – December 2019 (PDF) (2019-12)](https://www.shoklo-unit.com/files/resources/reports/metf-report-2019.pdf)
 - [METF Activity Report May 2014 - March 2018 (PDF) (2018-03)](https://www.shoklo-unit.com/files/resources/reports/metf-report-june-2014-apr-2018.pdf)
-- [METF Activity Report - May 2014 to December 2016 (PDF) (2016-12)](https://www.shoklo-unit.com/files/resources/reports/metf_monthly_epidemiological_report_mar2016.pdf)
+- [METF News bulletin (PDF) (2016-09)](https://www.shoklo-unit.com/files/resources/reports/metf_news.pdf)
+- [METF Activity Report - May 2014 to December 2016 (PDF) (2016-03)](https://www.shoklo-unit.com/files/resources/reports/metf_monthly_epidemiological_report_mar2016.pdf)
 
 <!-- METF_REPORTS:END -->
 

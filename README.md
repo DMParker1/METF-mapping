@@ -1,14 +1,13 @@
 # METF-mapping — Karen State, Myanmar 
 
-I focus here on the mapping component because that was my primary contribution. While there were many other components to the METF program, which I will link to separately, my role was as lead for the geospatial elements — so that is the emphasis in this repository.
+I focus here on the mapping component of METF because that was my primary contribution. While there were many other components to the METF program which I will link to separately, my role was as lead for the geospatial elements — so that is the emphasis in this repository.
 
 The mapping program is also closely connected to other major research strands, including:
 - The impacts of early diagnosis and treatment for *Plasmodium falciparum* malaria on malaria incidence
 - The use of combination therapies for *P. falciparum*
 - The use of targeted mass drug administration (tMDA) for *P. falciparum* elimination
 
-
-Future related repositories will document these other strands — particularly early diagnosis & treatment and tMDA — which both fed into and were influenced by METF’s operational model. Linking these will give a fuller picture of the program’s evolution and the shared lessons across initiatives.
+Other repositories will document these other strands — particularly early diagnosis & treatment and tMDA — which both fed into and were influenced by METF’s operational model. Linking these will give a fuller picture of the program’s evolution and the shared lessons across initiatives.
 
 Some of the broader history is detailed through interviews with François Nosten, for example:
 - [How malaria defeats our drugs](https://wellcome.org/news/how-malaria-defeats-our-drugs)

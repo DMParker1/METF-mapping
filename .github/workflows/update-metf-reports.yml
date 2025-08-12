@@ -2,8 +2,8 @@ name: Update METF reports
 
 on:
   schedule:
-    - cron: '23 09 * * 1'   # Mondays 09:23 UTC
-  workflow_dispatch: {}      # allow manual runs
+    - cron: '23 09 1 * *'   # runs on the 1st of each month at 09:23 UTC
+  workflow_dispatch: {}
 
 permissions:
   contents: write

@@ -98,8 +98,7 @@ Key papers:
 
 
 <!-- METF_REPORTS:START -->
-## METF reports (SMRU) 
-[![Update METF reports](https://github.com/DMParker1/METF-mapping/actions/workflows/update-metf-reports.yml/badge.svg)](https://github.com/DMParker1/METF-mapping/actions/workflows/update-metf-reports.yml)
+## METF reports (SMRU)
 
 - [METF News bulletin (PDF) (2024-09)](https://www.shoklo-unit.com/files/resources/reports/metf_news.pdf)
 - [METF Activity Report Update May 2014 – December 2019 (PDF) (2019-12)](https://www.shoklo-unit.com/files/resources/reports/metf-report-2019.pdf)

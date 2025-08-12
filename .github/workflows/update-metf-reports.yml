@@ -20,10 +20,10 @@ jobs:
         with:
           python-version: '3.11'
 
-- name: Install deps
-  run: |
-    python -m pip install --upgrade pip
-    pip install requests beautifulsoup4 pdfminer.six
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pdfminer.six
 
       - name: Update README section
         run: python scripts/update_metf_reports.py

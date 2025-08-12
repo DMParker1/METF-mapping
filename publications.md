@@ -2,7 +2,7 @@
 
 # METF-mapping Publications
 
-Below is a curated list of peer-reviewed publications resulting from the METF mapping program, grouped by theme. *Brief annotations can be added in italics after each citation.*
+Below is a curated list of peer-reviewed publications resulting from the METF mapping program, grouped by theme. *Brief annotations will be added in italics after each citation.*
 
 ---
 

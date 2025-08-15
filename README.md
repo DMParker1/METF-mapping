@@ -117,4 +117,5 @@ _Auto-updated: 2025-08-12 00:38 UTC_
 - [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal and child health research on the Thailand–Myanmar border.  
 - [earth-observation-hub](https://github.com/DMParker1/earth-observation-hub) — Remote sensing and Earth observation methods applied to public health.  
 projects.
+- [activity-spaces](https://github.com/DMParker1/activity-spaces) — Methods + narrative on multi-place exposure (farm huts, GPS, mobile phone data) for infectious disease transmission.
 ---

@@ -85,7 +85,7 @@ Following reconnaissance, the estimated need grew from ~800 to ~1,200 villages. 
   [![Combination therapies](https://img.youtube.com/vi/42pHJxBpbM4/0.jpg)](https://www.youtube.com/watch?v=42pHJxBpbM4)
 
 - **Shoklo Malaria Research Unit (METF is part of SMRU):**  
-  [![SMRU - what we do]([https://img.youtube.com/vi/42pHJxBpbM4/0.jpg](https://www.youtube.com/watch?v=YwOWkuoEB-I&ab_channel=ShokloMalariaResearchUnit))]([https://www.youtube.com/watch?v=42pHJxBpbM4](https://www.youtube.com/watch?v=YwOWkuoEB-I&ab_channel=ShokloMalariaResearchUnit))
+  [![SMRU - what we do]([https://img.youtube.com/vi/42pHJxBpbM4/0.jpg](https://img.youtube.com/watch?v=YwOWkuoEB-I&ab_channel=ShokloMalariaResearchUnit))]([https://www.youtube.com/watch?v=42pHJxBpbM4](https://www.youtube.com/watch?v=YwOWkuoEB-I&ab_channel=ShokloMalariaResearchUnit))
 
 ---
 

@@ -112,13 +112,19 @@ _Auto-updated: 2025-08-12 00:38 UTC_
 
 
 ---
-## Related Repositories
 
-- [spatial-epidemiology-hub](https://github.com/DMParker1/spatial-epidemiology-hub) — Minimal umbrella repo showing how my projects connect through GIS and spatial epidemiology.  
-- [tMDA-program](https://github.com/DMParker1/tmda-program) — Targeted mass drug administration trials and modeling in Southeast Asia.  
-- [early-dx-tx](https://github.com/DMParker1/early-dx-tx) — Early access to malaria diagnosis and treatment.  
+## 🔗 Related Repositories
+
+These repositories connect different parts of my spatial epidemiology research:
+
+- [spatial-epidemiology-hub](https://github.com/DMParker1/spatial-epidemiology-hub) — Umbrella repository tying together my career arc.  
+- [earth-observation-hub](https://github.com/DMParker1/earth-observation-hub) — How Earth Observation methods became central to my work, with curated papers and case studies.  
+- [activity-spaces](https://github.com/DMParker1/activity-spaces) — Research on multi-place exposure (farm huts, GPS, mobile phone data) and its health relevance.  
+- [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping malaria post placement & community engagement.  
+- [tMDA-program](https://github.com/DMParker1/tmda-program) — Targeted mass drug administration trials & modeling.  
+- [early-dx-tx](https://github.com/DMParker1/early-dx-tx) — Early access to malaria diagnosis & treatment.  
 - [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal and child health research on the Thailand–Myanmar border.  
-- [earth-observation-hub](https://github.com/DMParker1/earth-observation-hub) — Remote sensing and Earth observation methods applied to public health.  
-projects.
-- [activity-spaces](https://github.com/DMParker1/activity-spaces) — Methods + narrative on multi-place exposure (farm huts, GPS, mobile phone data) for infectious disease transmission.
+
+---
+
 ---

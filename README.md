@@ -101,7 +101,7 @@ Key papers:
 
 <!-- METF_REPORTS:START -->
 ## METF reports (SMRU)
-_Auto-updated: 2025-09-01 09:36 UTC_
+_Auto-updated: 2025-10-01 09:33 UTC_
 
 - [METF Activity Report Update May 2014 – December 2019 (PDF) (2019-12)](https://www.shoklo-unit.com/files/resources/reports/metf-report-2019.pdf)
 - [METF Activity Report May 2014 - March 2018 (PDF) (2018-03)](https://www.shoklo-unit.com/files/resources/reports/metf-report-june-2014-apr-2018.pdf)

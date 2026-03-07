@@ -117,7 +117,7 @@ _Auto-updated: 2026-03-01 09:46 UTC_
 
 These repositories connect different parts of my spatial epidemiology research:
 
-- [spatial-epidemiology-hub](https://github.com/DMParker1/spatial-epidemiology-hub) — Umbrella repository tying together my career arc.  
+- [research-trajectory-hub](https://github.com/DMParker1/research-trajectory-hub) — Umbrella repository tying together my career arc.  
 - [earth-observation-hub](https://github.com/DMParker1/earth-observation-hub) — How Earth Observation methods became central to my work, with curated papers and case studies.  
 - [activity-spaces](https://github.com/DMParker1/activity-spaces) — Research on multi-place exposure (farm huts, GPS, mobile phone data) and its health relevance.  
 - [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping malaria post placement & community engagement.  

@@ -1,6 +1,8 @@
-# METF-mapping — Karen State, Myanmar 
+# METF Mapping — Karen State, Myanmar
 
-I focus here on the mapping component of METF because that was my primary contribution. While there were many other components to the METF program which I will link to separately, my role was as lead for the geospatial elements — so that is the emphasis in this repository.
+This repository documents the mapping and geospatial component of the Malaria Elimination Task Force (METF) program in Karen State, Myanmar. Geographic reconnaissance, settlement mapping, and spatial analysis were central to the expansion and placement of community-based malaria services across the program area.
+
+My primary contribution to METF was leading these geospatial elements, so that is the emphasis here. The mapping work was closely connected to several other strands of the broader malaria-elimination program, including:
 
 The mapping program is also closely connected to other major research strands, including:
 - The impacts of early diagnosis and treatment for *Plasmodium falciparum* malaria on malaria incidence

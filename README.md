@@ -26,7 +26,9 @@ Some of the broader history is detailed through interviews with François Nosten
     <td align="center" valign="top" width="50%">
       <!-- Map -->
       <a href="https://doi.org/10.12688/wellcomeopenres.12741.2">
-        <img src="./figure1_overview_map.gif" alt="Figure 1: METF target areas and villages" height="260">
+       <img src="./figure1_overview_map.gif"
+     alt="Map of the METF program area in eastern Myanmar showing hundreds of target villages across Hpapun, Hlaingbwe, Myawaddy, and Kawkareik areas. An inset map locates the study region along the Myanmar–Thailand border."
+     height="260">
       </a>
       <br>
       <sub><b>Figure 1.</b> Map of METF target areas and villages in Kayin State (CC BY).</sub>
@@ -34,13 +36,15 @@ Some of the broader history is detailed through interviews with François Nosten
     <td align="center" valign="top" width="50%">
       <!-- Old Poster (2015) -->
       <a href="https://figshare.com/articles/poster/Malaria_Elimination_Myanmar/1505091?file=2204588">
-        <img src="./metf-poster-thumb.jpg" alt="Poster: Malaria Elimination, Myanmar" height="260">
+        <img src="./metf-poster-thumb.jpg"
+     alt="2015 scientific poster on malaria elimination in eastern Myanmar, combining maps of the METF target area and malaria posts with field photographs, surveillance graphs, travel-time information, program achievements, and operational challenges."
+     height="260">
       </a>
       <br>
       <sub><b>Old Poster (2015).</b> <i>Malaria Elimination, Myanmar</i></sub>
       <br>
       <a href="https://doi.org/10.6084/m9.figshare.1505091">
-        <img alt="DOI" src="https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.1505091-blue">
+      <img alt="DOI for the 2015 Malaria Elimination in Eastern Myanmar poster" src="https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.1505091-blue">
       </a>
     </td>
   </tr>

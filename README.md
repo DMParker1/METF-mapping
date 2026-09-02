@@ -105,8 +105,7 @@ Key papers:
 
 ## METF and SMRU reports
 
-For METF and other SMRU reports, see the [SMRU website](https://www.shoklo-unit.com/).
-
+For METF and other SMRU reports, visit the Shoklo Malaria Research Unit website at `www.shoklo-unit.com` and select **Resources → Reports**.
 
 ---
 

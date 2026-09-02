@@ -103,17 +103,11 @@ Key papers:
 - Landier J, Parker DM, Thu AM, _et al._ [**Effect of generalised access to early diagnosis and treatment and targeted mass drug administration on *Plasmodium falciparum* malaria in Eastern Myanmar: an observational study of a regional elimination programme**](https://doi.org/10.1016/S0140-6736(18)30792-X) 2018. *The Lancet* 391:1916–26. 
 
 
+## METF and SMRU reports
 
-<!-- METF_REPORTS:START -->
-## METF reports (SMRU)
-_Auto-updated: 2026-09-02 02:19 UTC_
+For METF and other SMRU reports, see the [SMRU reports page](https://www.shoklo-unit.com/resources/reports).
 
-- [METF Activity Report Update May 2014 – December 2019 (PDF) (2019-12)](https://www.shoklo-unit.com/files/resources/reports/metf-report-2019.pdf)
-- [METF Activity Report May 2014 - March 2018 (PDF) (2018-03)](https://www.shoklo-unit.com/files/resources/reports/metf-report-june-2014-apr-2018.pdf)
-- [METF News bulletin (PDF) (2016-09)](https://www.shoklo-unit.com/files/resources/reports/metf_news.pdf)
-- [METF Activity Report - May 2014 to December 2016 (PDF) (2016-03)](https://www.shoklo-unit.com/files/resources/reports/metf_monthly_epidemiological_report_mar2016.pdf)
 
-<!-- METF_REPORTS:END -->
 
 
 ---

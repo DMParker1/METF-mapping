@@ -4,7 +4,6 @@ This repository documents the mapping and geospatial component of the Malaria El
 
 My primary contribution to METF was leading these geospatial elements, so that is the emphasis here. The mapping work was closely connected to several other strands of the broader malaria-elimination program, including:
 
-The mapping program is also closely connected to other major research strands, including:
 - The impacts of early diagnosis and treatment for *Plasmodium falciparum* malaria on malaria incidence
 - The use of combination therapies for *P. falciparum*
 - The use of targeted mass drug administration (tMDA) for *P. falciparum* elimination

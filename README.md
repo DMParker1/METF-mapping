@@ -105,9 +105,7 @@ Key papers:
 
 ## METF and SMRU reports
 
-For METF and other SMRU reports, see the [SMRU reports page]([https://www.shoklo-unit.com/]).
-
-
+For METF and other SMRU reports, see the [SMRU website](https://www.shoklo-unit.com/).
 
 
 ---

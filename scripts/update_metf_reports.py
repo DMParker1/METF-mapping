@@ -8,7 +8,12 @@ from bs4 import BeautifulSoup
 
 BASE = "https://www.shoklo-unit.com"
 URL  = "https://www.shoklo-unit.com/resources/reports"
-UA   = {"User-Agent": "METF-mapping-bot/1.1 (+https://github.com/DMParker1/METF-mapping)"}
+UA = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    )
+}
 
 MARKER_START = "<!-- METF_REPORTS:START -->"
 MARKER_END   = "<!-- METF_REPORTS:END -->"
